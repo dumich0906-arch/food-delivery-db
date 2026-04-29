@@ -37,13 +37,13 @@ status — текст, статус заказа
 Скриншоты получены через сервис SQLite Online.
 
 Таблица customers
-(вставить скриншот)
+![customers](screenshots/customers.png)
 
 Таблица restaurants
-(вставить скриншот)
+![restaurants](screenshots/restaurants.png)
 
 Таблица orders
-(вставить скриншот)
+![orders](screenshots/orders.png)
 
 SQL запросы
 
